@@ -6,9 +6,6 @@
     "cpf": {
         "registered": false
     },
-    "email_code": {
-        "authorized": true
-    },
     "sms_code": {
         "authorized": true
     },
