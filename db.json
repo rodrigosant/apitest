@@ -3,6 +3,9 @@
         "name": "NewUser",
         "registered": false
     },
+    "cpf": {
+        "registered": false
+    },
     "email_code": {
         "authorized": true
     },
